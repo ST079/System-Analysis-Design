@@ -16,7 +16,7 @@ Member List,
 3. Sushil Khatri
 
 
-# Team Name: 
+# Team Name: Library Group
 Team Leader: Riyan Duwal <br>
 Team Topic: Library Management System <br>
 Member List,
